@@ -1,0 +1,56 @@
+// Find Method:
+// Challenge: Find the longest word in an array of strings.
+
+var words = ['apple', 'banana', 'cherry', 'date'];
+
+// Starter code - Add your solution here
+
+
+// Sort Method:
+// Challenge: Sort an array of objects based on multiple properties.
+
+var persons = [
+  { name: 'Alice', age: 25 },
+  { name: 'Bob', age: 30 },
+  { name: 'Charlie', age: 20 }
+];
+
+// Starter code - Add your solution here
+
+
+// Filter Method:
+// Challenge: Filter out all the elements that satisfy multiple conditions in an array.
+
+var numbers = [10, 5, 25, 8, 15, 30];
+
+// Starter code - Add your solution here
+
+
+// Reduce Method:
+// Challenge: Group objects in an array based on a specific property and calculate their total.
+
+var products = [
+  { name: 'Apple', category: 'Fruits', price: 1.5 },
+  { name: 'Banana', category: 'Fruits', price: 0.75 },
+  { name: 'Carrot', category: 'Vegetables', price: 0.5 },
+  { name: 'Orange', category: 'Fruits', price: 1.25 },
+  { name: 'Cucumber', category: 'Vegetables', price: 1 }
+];
+
+// Starter code - Add your solution here
+
+
+// Map Method:
+// Challenge: Transform an array of strings into an array of objects with key-value pairs.
+
+var fruits = ['apple', 'banana', 'cherry'];
+
+// Starter code - Add your solution here
+
+
+// forEach Method:
+// Challenge: Implement a custom operation on each element of an array and update the original array.
+
+var numbers = [1, 2, 3, 4, 5];
+
+// Starter code - Add your solution here
